@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\sreep\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\sreep\\.nuget\\packages"
+    ]
+  }
+}
