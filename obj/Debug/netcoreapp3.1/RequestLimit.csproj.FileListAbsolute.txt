@@ -11,8 +11,6 @@ F:\FreeLance_Task\RequestLimit\obj\Debug\netcoreapp3.1\RequestLimit.AssemblyInfo
 F:\FreeLance_Task\RequestLimit\obj\Debug\netcoreapp3.1\RequestLimit.csproj.CoreCompileInputs.cache
 F:\FreeLance_Task\RequestLimit\obj\Debug\netcoreapp3.1\RequestLimit.MvcApplicationPartsAssemblyInfo.cache
 F:\FreeLance_Task\RequestLimit\obj\Debug\netcoreapp3.1\staticwebassets\RequestLimit.StaticWebAssets.Manifest.cache
-F:\FreeLance_Task\RequestLimit\obj\Debug\netcoreapp3.1\staticwebassets\RequestLimit.StaticWebAssets.xml
-F:\FreeLance_Task\RequestLimit\obj\Debug\netcoreapp3.1\scopedcss\bundle\RequestLimit.styles.css
 F:\FreeLance_Task\RequestLimit\obj\Debug\netcoreapp3.1\RequestLimit.RazorTargetAssemblyInfo.cache
 F:\FreeLance_Task\RequestLimit\obj\Debug\netcoreapp3.1\RequestLimit.dll
 F:\FreeLance_Task\RequestLimit\obj\Debug\netcoreapp3.1\RequestLimit.pdb
@@ -25,3 +23,11 @@ F:\FreeLance_Task\RequestLimit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Opti
 F:\FreeLance_Task\RequestLimit\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
 F:\FreeLance_Task\RequestLimit\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 F:\FreeLance_Task\RequestLimit\obj\Debug\netcoreapp3.1\RequestLimit.csproj.CopyComplete
+F:\FreeLance_Task\RequestLimit\bin\Debug\netcoreapp3.1\RequestLimit.StaticWebAssets.xml
+F:\FreeLance_Task\RequestLimit\obj\Debug\netcoreapp3.1\RequestLimit.csproj.AssemblyReference.cache
+F:\FreeLance_Task\RequestLimit\obj\Debug\netcoreapp3.1\RequestLimit.GeneratedMSBuildEditorConfig.editorconfig
+F:\FreeLance_Task\RequestLimit\obj\Debug\netcoreapp3.1\staticwebassets\RequestLimit.StaticWebAssets.Pack.cache
+F:\FreeLance_Task\RequestLimit\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.RequestLimit.Microsoft.AspNetCore.StaticWebAssets.props
+F:\FreeLance_Task\RequestLimit\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.RequestLimit.props
+F:\FreeLance_Task\RequestLimit\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.RequestLimit.props
+F:\FreeLance_Task\RequestLimit\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.RequestLimit.props

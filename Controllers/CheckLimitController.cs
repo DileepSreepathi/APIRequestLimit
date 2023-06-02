@@ -16,7 +16,7 @@ namespace RequestLimit.Controllers
         [HttpGet]
         public IEnumerable<string> Get()
         {
-            return new string[] { "hello", "Dileep" };
+            return new string[] { "hello", "World" };
         }
 
         // GET api/<CheckLimitController>/5
